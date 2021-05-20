@@ -129,7 +129,7 @@
    * 태블릿: 8 컬럼 레이아웃 모듈
    * 768px ~ 1024px
    * ----------------------------- */
-  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
   
     .container.adaptive {
       width: 768px;
@@ -190,7 +190,7 @@
    * 데스크탑: 12 컬럼 레이아웃 모듈
    * 1025px ~
    * ----------------------------- */
-  @media only screen and (min-width: 1025px) {
+  @media only screen and (min-width: 1024px) {
   
     .container.adaptive {
       width: 1025px;
